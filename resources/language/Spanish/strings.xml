@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <string id="32100">Modo</string>
+    <string id="32200">Imágenes</string>
+
+    <string id="32000">Salvapantallas</string>
+    <string id="32001">TableDrop</string>
+    <string id="32002">StarWars</string>
+    <string id="32003">RandomZoomIn</string>
+    <string id="32004">AppleTVLike</string>
+    <string id="32005">GridSwitch</string>
+    <string id="32006">Aleatorio</string>
+    <string id="32007">Orden aleatorio</string>
+    <string id="32008">Recursivo</string>
+
+    <string id="32010">Recurso</string>
+    <string id="32011">Películas</string>
+    <string id="32012">Carpeta</string>
+    <string id="32013">Propiedad</string>
+    <string id="32014">Álbums</string>
+    <string id="32015">Fanart</string>
+    <string id="32016">Minitura</string>
+    <string id="32017">Series TV</string>
+
+    <string id="32300">Tiempo de espera</string>
+    <string id="32301">Tiempo del efecto</string>
+    <string id="32302">Filas y columnas</string>
+    <string id="32303">Velocidad</string>
+    <string id="32304">Concurrencia de imagen</string>
+    <string id="32305">Orden aleatorio</string>
+    <string id="32500">¡No se encontraron imágenes!</string>
+    <string id="32501">Utilizando respaldo de Fanart de Película o Música</string>
+</strings>
