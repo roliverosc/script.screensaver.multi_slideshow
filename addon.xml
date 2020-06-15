@@ -13,9 +13,9 @@
         <forum>http://forum.xbmc.org/showthread.php?tid=173734</forum>
         <email>sphere@dersphere.de</email>
         <summary lang="en">Implements several different multi-image screensavers</summary>
-		<summary lang="es_ES">Implementa varios salvapantallas de imágenes múltiples diferentes</summary>
+	<summary lang="es_ES">Implementa varios salvapantallas de imágenes múltiples diferentes</summary>
         <description lang="en">This Screensaver provides several different multi-image screensavers:[CR] AppleTVLike, TableDrop, StarWars, RandomZoomIn, GridSwitch</description>
-		<description lang="es_ES">Este protector de pantalla proporciona varios protectores de pantalla multi-imágenes: [CR] AppleTVLike, TableDrop, StarWars, RandomZoomIn, GridSwitch</description>
+	<description lang="es_ES">Este protector de pantalla proporciona varios protectores de pantalla multi-imágenes: [CR] AppleTVLike, TableDrop, StarWars, RandomZoomIn, GridSwitch</description>
 		
     </extension>
 </addon>
